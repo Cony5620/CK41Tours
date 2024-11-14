@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CK41Tours.props" />
+</Project>

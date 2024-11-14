@@ -1,0 +1,43 @@
+﻿@model TGViewModel
+@{
+    TempData["Title"] = "TG";
+}
+<h3>Edit Tab</h3>
+@{
+    var info = TempData["info"];
+}
+@if (info != null)
+{
+    @if (Convert.ToBoolean(TempData["status"]))
+    {
+        <div class="alert alert-success" role="alert">
+            @info
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-danger" role="alert">
+            @info
+        </div>
+
+    }
+}
+<form action="/TG/Update" method="post">
+    <input type="hidden" name="Id" value="@Model.Id" />
+
+    <div class="mb-3">
+        <label class="form-label">Tab</label>
+        <input type="text" class="form-control"  name="TG01" value="@Model.TG01" required>
+
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Description</label>
+        <input type="text" class="form-control" name="TG02" value="@Model.TG02" >
+
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Update</button>
+    <a href="/TG/list" class="btn btn-primary">Go to list</a>
+
+</form> 
