@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CK41Tours")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbe7c0b344acab12fe71f70e21f5f4f755525d04")]
 [assembly: System.Reflection.AssemblyProductAttribute("CK41Tours")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CK41Tours")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

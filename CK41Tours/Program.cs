@@ -10,7 +10,7 @@ builder.Services.AddScoped<IUnitOfWork, UnitOfWork>(); builder.Services.AddContr
 builder.Services.AddTransient<ITGService,TGService>();
 builder.Services.AddTransient<IDTService,DTService>();
 var app = builder.Build();
-
+ 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {

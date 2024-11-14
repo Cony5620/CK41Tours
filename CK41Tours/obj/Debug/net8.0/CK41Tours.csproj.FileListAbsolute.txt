@@ -166,3 +166,4 @@ C:\Users\kaung\source\repos\CK41Tours\CK41Tours\obj\Debug\net8.0\refint\CK41Tour
 C:\Users\kaung\source\repos\CK41Tours\CK41Tours\obj\Debug\net8.0\CK41Tours.pdb
 C:\Users\kaung\source\repos\CK41Tours\CK41Tours\obj\Debug\net8.0\CK41Tours.genruntimeconfig.cache
 C:\Users\kaung\source\repos\CK41Tours\CK41Tours\obj\Debug\net8.0\ref\CK41Tours.dll
+C:\Users\kaung\source\repos\CK41Tours\CK41Tours\obj\Debug\net8.0\CK41Tours.sourcelink.json

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kaung\\source\\repos\\CK41Tours\\CK41Tours\\CK41Tours.csproj": {}
+    "D:\\Myproject\\CK41Tours\\CK41Tours\\CK41Tours.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kaung\\source\\repos\\CK41Tours\\CK41Tours\\CK41Tours.csproj": {
+    "D:\\Myproject\\CK41Tours\\CK41Tours\\CK41Tours.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kaung\\source\\repos\\CK41Tours\\CK41Tours\\CK41Tours.csproj",
+        "projectUniqueName": "D:\\Myproject\\CK41Tours\\CK41Tours\\CK41Tours.csproj",
         "projectName": "CK41Tours",
-        "projectPath": "C:\\Users\\kaung\\source\\repos\\CK41Tours\\CK41Tours\\CK41Tours.csproj",
+        "projectPath": "D:\\Myproject\\CK41Tours\\CK41Tours\\CK41Tours.csproj",
         "packagesPath": "C:\\Users\\kaung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kaung\\source\\repos\\CK41Tours\\CK41Tours\\obj\\",
+        "outputPath": "D:\\Myproject\\CK41Tours\\CK41Tours\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
