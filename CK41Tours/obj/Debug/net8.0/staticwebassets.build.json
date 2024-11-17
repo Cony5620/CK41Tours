@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4vHadeBF+0DXsEgWY9RZKkQa12wo+/scEvyweiQygqQ=",
+  "Hash": "4kfbNrxQPmElHN4XDaqyqegqM5xGglCkFg6wmQ7kqG0=",
   "Source": "CK41Tours",
   "BasePath": "_content/CK41Tours",
   "Mode": "Default",
@@ -224,6 +224,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\92d1b7ee-3f2b-4639-91d1-974098747ede_391b2d94462fac298bd555fb3db5b4de.jpg"
+    },
+    {
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\97e9cb85-a37a-4975-bbef-394560b87f05_images (5).jpg",
+      "SourceId": "CK41Tours",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
+      "BasePath": "_content/CK41Tours",
+      "RelativePath": "images/97e9cb85-a37a-4975-bbef-394560b87f05_images (5).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\97e9cb85-a37a-4975-bbef-394560b87f05_images (5).jpg"
     },
     {
       "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\9bf3b961-235b-4f8b-b236-254d3456d062_images (5).jpg",
