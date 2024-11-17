@@ -28,6 +28,14 @@ namespace CK41Tours.UnitOfWorks
                 return _dTRepository=_dTRepository?? new DTRepository(_dbContext);
             }
         }
+        private ITMRepository _tMRepository;
+        public ITMRepository TMRepository
+        {
+            get
+            {
+                return _tMRepository=_tMRepository ?? new TMRepository(_dbContext);
+            }
+        }
 
         public void Commit()
         {

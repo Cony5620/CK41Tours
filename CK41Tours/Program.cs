@@ -9,6 +9,7 @@ builder.Services.AddDbContext<CK41ToursDbContext>(o=>o.UseSqlServer(config.GetCo
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>(); builder.Services.AddControllersWithViews();
 builder.Services.AddTransient<ITGService,TGService>();
 builder.Services.AddTransient<IDTService,DTService>();
+builder.Services.AddTransient<ITMService,TMService>();
 var app = builder.Build();
  
 // Configure the HTTP request pipeline.

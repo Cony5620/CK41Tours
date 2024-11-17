@@ -1,0 +1,71 @@
+﻿@model IEnumerable<TMViewModel>
+@{
+    ViewData["Title"] = "TM";
+}
+<h3>Team Member List</h3>
+@{
+    var info = TempData["info"];
+}
+@if (info != null)
+{
+    @if (Convert.ToBoolean(TempData["status"]))
+    {
+        <div class="alert alert-success" role="alert">
+            @info
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-danger" role="alert">
+            @info
+        </div>
+
+    }
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col"> Photo</th>
+            <th scope="col">Name </th>
+            <th scope="col">Position </th>
+            <th scope="col">Team </th>
+            <th scope="col">Description</th>
+            <th scope="col">Actions</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Any())
+        {
+            int i = 1;
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th scope="row">@i</th>
+                    <td>
+                        <img src="~/images/@item.TM02" class="square-photo" height="400" wiTMh="400" asp-append-version="true" />
+                    </td>
+                    <td>@item.TM01</td>
+                    <td>@item.TM03</td>
+                    <td>@item.TM04</td>
+                    <td>@item.TM05</td>
+                    <td><a href="/TM/edit?id=@item.Id" class="btn btn-success">Edit</a></td>
+                    <td><a href="/TM/delete?id=@item.Id" class="btn btn-danger" onclick="return confirm('Are you sure to delete');">Delete</a></td>
+                </tr>
+                i++;
+            }
+
+
+        }
+        else
+        {
+            <div class="alert alert-danger" role="alert">
+                There is no data.
+            </div>
+        }
+
+
+    </tbody>
+</table>
+<a href="/TM/entry" class="btn btn-primary">Entry</a>

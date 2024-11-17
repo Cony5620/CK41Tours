@@ -69,15 +69,21 @@ namespace CK41Tours.Services
 
         public void Update(DTViewModel DTViewModel,string photoUrl)
         {
-            DTEntity DTEntity = new DTEntity()
+            var existingDTEntity = _unitOfWork.DTRepository.GetBy(w => w.Id == DTViewModel.Id).FirstOrDefault();
+
+            if (existingDTEntity == null)
             {
-                Id = DTViewModel.Id,
-                DT01 = DTViewModel.DT01,
-                DT02 = DTViewModel.DT02,
-                DT03 = photoUrl,
-              ModifiedAt=DateTime.Now,
-            };
-            _unitOfWork.DTRepository.Update(DTEntity);
+                throw new Exception(" Destination not found.");
+            }
+
+            // Update entity fields
+            existingDTEntity.DT01 = DTViewModel.DT01;
+            existingDTEntity.DT02 = DTViewModel.DT02;
+            existingDTEntity.DT03 = string.IsNullOrEmpty(photoUrl) ? existingDTEntity.DT03 : photoUrl;
+
+            existingDTEntity.ModifiedAt = DateTime.Now;
+
+            _unitOfWork.DTRepository.Update(existingDTEntity);
             _unitOfWork.Commit();
         }
     }
