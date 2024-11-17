@@ -8,5 +8,6 @@ namespace CK41Tours.DAO
         public CK41ToursDbContext(DbContextOptions<CK41ToursDbContext> options) : base(options) { }
        public DbSet<DTEntity> DTs { get; set; }
         public DbSet<TGEntity> TGs {  get; set; }
+        public DbSet<TMEntity> TMEs { get; set; }
     }
 }
