@@ -1,311 +1,315 @@
 {
   "Files": [
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CK41Tours.bundle.scp.css",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CK41Tours.bundle.scp.css",
       "PackagePath": "staticwebassets\\CK41Tours.bundle.scp.css"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\css\\site.css",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\favicon.ico",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\1b9270ca-d720-428d-9596-2845484d8e97_man3.jpg",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\1b9270ca-d720-428d-9596-2845484d8e97_man3.jpg",
       "PackagePath": "staticwebassets\\images\\1b9270ca-d720-428d-9596-2845484d8e97_man3.jpg"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\1c86e0b0-4677-4b2a-9664-8124155d2576_361605744_652169700270623_5330293218732493276_n.jpg",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\1c86e0b0-4677-4b2a-9664-8124155d2576_361605744_652169700270623_5330293218732493276_n.jpg",
       "PackagePath": "staticwebassets\\images\\1c86e0b0-4677-4b2a-9664-8124155d2576_361605744_652169700270623_5330293218732493276_n.jpg"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\3bdf1273-820e-49cc-bde3-094c24931143_team lady.jpg",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\262a2e7e-742d-4f4f-a0dc-7bf11c42b2cf_man1.jpg",
+      "PackagePath": "staticwebassets\\images\\262a2e7e-742d-4f4f-a0dc-7bf11c42b2cf_man1.jpg"
+    },
+    {
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\3bdf1273-820e-49cc-bde3-094c24931143_team lady.jpg",
       "PackagePath": "staticwebassets\\images\\3bdf1273-820e-49cc-bde3-094c24931143_team lady.jpg"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\6dd47060-f115-4dee-999f-3d4bd863a9ea_Group.jpg",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\6dd47060-f115-4dee-999f-3d4bd863a9ea_Group.jpg",
       "PackagePath": "staticwebassets\\images\\6dd47060-f115-4dee-999f-3d4bd863a9ea_Group.jpg"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\70cc1875-4976-4319-8c89-b28c57f7dc15_347650928_1173892366619310_3925718435711192557_n.jpg",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\70cc1875-4976-4319-8c89-b28c57f7dc15_347650928_1173892366619310_3925718435711192557_n.jpg",
       "PackagePath": "staticwebassets\\images\\70cc1875-4976-4319-8c89-b28c57f7dc15_347650928_1173892366619310_3925718435711192557_n.jpg"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\7889a074-439c-4195-9e8c-71fb1c41a9fc_lady1.jpg",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\7889a074-439c-4195-9e8c-71fb1c41a9fc_lady1.jpg",
       "PackagePath": "staticwebassets\\images\\7889a074-439c-4195-9e8c-71fb1c41a9fc_lady1.jpg"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\7d3d1bd0-241a-4537-820c-9b2f858c9ebe_man2.jpg",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\7d3d1bd0-241a-4537-820c-9b2f858c9ebe_man2.jpg",
       "PackagePath": "staticwebassets\\images\\7d3d1bd0-241a-4537-820c-9b2f858c9ebe_man2.jpg"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\94a37db8-5b0d-49e4-8a42-301081d25701_Event.jpg",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\94a37db8-5b0d-49e4-8a42-301081d25701_Event.jpg",
       "PackagePath": "staticwebassets\\images\\94a37db8-5b0d-49e4-8a42-301081d25701_Event.jpg"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\b8c5b47e-1e34-4676-8704-c5e30b3c6a4b_361613710_652169256937334_7949624172686681308_n.jpg",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\b8c5b47e-1e34-4676-8704-c5e30b3c6a4b_361613710_652169256937334_7949624172686681308_n.jpg",
       "PackagePath": "staticwebassets\\images\\b8c5b47e-1e34-4676-8704-c5e30b3c6a4b_361613710_652169256937334_7949624172686681308_n.jpg"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\bdeda9cc-b700-46fa-b1e0-6af37c651589_lady5.jpg",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\bdeda9cc-b700-46fa-b1e0-6af37c651589_lady5.jpg",
       "PackagePath": "staticwebassets\\images\\bdeda9cc-b700-46fa-b1e0-6af37c651589_lady5.jpg"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\d217ca6c-38a7-4575-b2b6-45a39de77e8a_team man.jpg",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\d217ca6c-38a7-4575-b2b6-45a39de77e8a_team man.jpg",
       "PackagePath": "staticwebassets\\images\\d217ca6c-38a7-4575-b2b6-45a39de77e8a_team man.jpg"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\d610e478-f9b7-4bf3-a7d8-cfae5a8a20b2_adventure.jpg",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\d610e478-f9b7-4bf3-a7d8-cfae5a8a20b2_adventure.jpg",
       "PackagePath": "staticwebassets\\images\\d610e478-f9b7-4bf3-a7d8-cfae5a8a20b2_adventure.jpg"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\e786274d-e14d-49a3-b2aa-5bd8d8e8e647_Luxury.jpg",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\e786274d-e14d-49a3-b2aa-5bd8d8e8e647_Luxury.jpg",
       "PackagePath": "staticwebassets\\images\\e786274d-e14d-49a3-b2aa-5bd8d8e8e647_Luxury.jpg"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\edc62349-b930-4cfb-b21b-cbd903bf5403_lady3.jpg",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\edc62349-b930-4cfb-b21b-cbd903bf5403_lady3.jpg",
       "PackagePath": "staticwebassets\\images\\edc62349-b930-4cfb-b21b-cbd903bf5403_lady3.jpg"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\ef766e38-0662-483f-816d-0176e3ada549_361615045_652169553603971_7889021647957329736_n.jpg",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\ef766e38-0662-483f-816d-0176e3ada549_361615045_652169553603971_7889021647957329736_n.jpg",
       "PackagePath": "staticwebassets\\images\\ef766e38-0662-483f-816d-0176e3ada549_361615045_652169553603971_7889021647957329736_n.jpg"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\ef8d161e-ec4c-4f77-adfc-28aa6f8a9f56_lady6.jpg",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\ef8d161e-ec4c-4f77-adfc-28aa6f8a9f56_lady6.jpg",
       "PackagePath": "staticwebassets\\images\\ef8d161e-ec4c-4f77-adfc-28aa6f8a9f56_lady6.jpg"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\js\\site.js",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
