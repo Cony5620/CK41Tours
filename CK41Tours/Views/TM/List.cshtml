@@ -29,8 +29,8 @@
             <th scope="col"> Photo</th>
             <th scope="col">Name </th>
             <th scope="col">Position </th>
-            <th scope="col">Team </th>
-            <th scope="col">Description</th>
+            <th scope="col">Email </th>
+            @* <th scope="col">Description</th> *@
             <th scope="col">Actions</th>
             <th scope="col"></th>
         </tr>
@@ -44,12 +44,12 @@
                 <tr>
                     <th scope="row">@i</th>
                     <td>
-                        <img src="~/images/@item.TM02" class="square-photo" height="400" wiTMh="400" asp-append-version="true" />
+                        <img src="~/images/@item.TM02" class="square-photo" height="100" wiTMh="100" asp-append-version="true" />
                     </td>
                     <td>@item.TM01</td>
                     <td>@item.TM03</td>
                     <td>@item.TM04</td>
-                    <td>@item.TM05</td>
+                    @* <td>@item.TM05</td> *@
                     <td><a href="/TM/edit?id=@item.Id" class="btn btn-success">Edit</a></td>
                     <td><a href="/TM/delete?id=@item.Id" class="btn btn-danger" onclick="return confirm('Are you sure to delete');">Delete</a></td>
                 </tr>

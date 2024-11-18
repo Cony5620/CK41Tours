@@ -37,14 +37,29 @@ namespace CK41Tours.UnitOfWorks
             }
         }
 
+        #region TT
+        private ITTRepository _TTRepository;
+        public ITTRepository TTRepository
+        {
+            get
+            {
+                return _TTRepository = _TTRepository ?? new TTRepository(_dbContext);
+            }
+        }
+        #endregion
+
+        #region Commit
         public void Commit()
         {
           _dbContext.SaveChanges();
         }
+        #endregion
 
+        #region RollBack
         public void RollBack()
         {
           _dbContext.Dispose();
         }
+        #endregion
     }
 }
