@@ -9,5 +9,6 @@ namespace CK41Tours.DAO
        public DbSet<DTEntity> DTs { get; set; }
         public DbSet<TGEntity> TGs {  get; set; }
         public DbSet<TMEntity> TMEs { get; set; }
+        public DbSet<TTEntity> TTs { get; set; }
     }
 }

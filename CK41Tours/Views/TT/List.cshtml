@@ -1,0 +1,67 @@
+﻿@model IEnumerable<TTViewModel>
+@{
+    ViewData["Title"] = "TT";
+}
+<h3>Travel List</h3>
+@{
+    var info = TempData["info"];
+}
+@if (info != null)
+{
+    @if (Convert.ToBoolean(TempData["status"]))
+    {
+        <div class="alert alert-success" role="alert">
+            @info
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-danger" role="alert">
+            @info
+        </div>
+
+    }
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Travel Photo</th>
+            <th scope="col">Travel Type</th>
+            <th scope="col">Description</th>
+            <th scope="col">Actions</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Any())
+        {
+            int i = 1;
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th scope="row">@i</th>
+                    <td>
+                        <img src="~/images/@item.TT03" class="square-photo" height="100" wiTTh="100" asp-append-version="true" />
+                    </td>
+                    <td>@item.TT01</td>
+                    <td>@item.TT02</td>
+                    <td><a href="/TT/edit?id=@item.Id" class="btn btn-success">Edit</a></td>
+                    <td><a href="/TT/delete?id=@item.Id" class="btn btn-danger" onclick="return confirm('Are you sure to delete');">Delete</a></td>
+                </tr>
+                i++;
+            }
+
+
+        }
+        else
+        {
+            <div class="alert alert-danger" role="alert">
+                There is no data.
+            </div>
+        }
+
+
+    </tbody>
+</table>
+<a href="/TT/entry" class="btn btn-primary">Entry</a>
