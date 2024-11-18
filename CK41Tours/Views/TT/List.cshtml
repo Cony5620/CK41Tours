@@ -42,7 +42,8 @@
                 <tr>
                     <th scope="row">@i</th>
                     <td>
-                        <img src="~/images/@item.TT03" class="square-photo" height="100" wiTTh="100" asp-append-version="true" />
+                        <a href="#photoModal" data-bs-toggle="modal" data-bs-target="#photoModal" data-img-src="@Url.Content("~/images/" + item.TT03)">
+                            <img src="@Url.Content("~/images/" + item.TT03)" class="square-photo" height="100" width="100" asp-append-version="true" />
                     </td>
                     <td>@item.TT01</td>
                     <td>@item.TT02</td>
@@ -65,3 +66,33 @@
     </tbody>
 </table>
 <a href="/TT/entry" class="btn btn-primary">Entry</a>
+
+<div class="modal fade" id="photoModal" tabindex="-1" aria-labelledby="photoModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="photoModalLabel">Travel Photo</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body text-center">
+                <img id="modalImage" src="" alt="Travel Photo" class="img-fluid" />
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const photoModal = document.getElementById('photoModal');
+        if (photoModal) {
+            photoModal.addEventListener('show.bs.modal', function (event) {
+                const button = event.relatedTarget; // Button that triggered the modal
+                const imgSrc = button.getAttribute('data-img-src'); // Extract info from data-* attributes
+                const modalImage = document.getElementById('modalImage'); // Find the image element in the modal
+                if (imgSrc) {
+                    modalImage.src = imgSrc; // Update the modal's image src
+                }
+            });
+        }
+    });
+</script>

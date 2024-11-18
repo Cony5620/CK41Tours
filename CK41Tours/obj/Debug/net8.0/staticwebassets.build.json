@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "Hash": "hYzPa0JOdWVuck85/2+IB3w2ak7DyQdtZILsz6+6YbI=",
+=======
   "Hash": "qrSmNqIRWJIn/Z8nvOXztJ/Et1kTrP06WxeHycvkaYQ=",
+>>>>>>> 58b9c64f64f6d5e3beab31bbbbf4112a77ba1d64
   "Source": "CK41Tours",
   "BasePath": "_content/CK41Tours",
   "Mode": "Default",
@@ -10,17 +14,17 @@
     {
       "Name": "CK41Tours\\wwwroot",
       "Source": "CK41Tours",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CK41Tours.styles.css",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CK41Tours.styles.css",
       "SourceId": "CK41Tours",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "CK41Tours.styles.css",
       "AssetKind": "All",
@@ -33,13 +37,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CK41Tours.styles.css"
+      "OriginalItemSpec": "D:\\Myproject\\CK41Tours\\CK41Tours\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CK41Tours.styles.css"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CK41Tours.bundle.scp.css",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CK41Tours.bundle.scp.css",
       "SourceId": "CK41Tours",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "CK41Tours.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +56,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CK41Tours.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Myproject\\CK41Tours\\CK41Tours\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CK41Tours.bundle.scp.css"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\css\\site.css",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +78,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\favicon.ico",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +97,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\1b9270ca-d720-428d-9596-2845484d8e97_man3.jpg",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\1b9270ca-d720-428d-9596-2845484d8e97_man3.jpg",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "images/1b9270ca-d720-428d-9596-2845484d8e97_man3.jpg",
       "AssetKind": "All",
@@ -112,10 +116,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1b9270ca-d720-428d-9596-2845484d8e97_man3.jpg"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\1c86e0b0-4677-4b2a-9664-8124155d2576_361605744_652169700270623_5330293218732493276_n.jpg",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\1c86e0b0-4677-4b2a-9664-8124155d2576_361605744_652169700270623_5330293218732493276_n.jpg",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "images/1c86e0b0-4677-4b2a-9664-8124155d2576_361605744_652169700270623_5330293218732493276_n.jpg",
       "AssetKind": "All",
@@ -131,6 +135,9 @@
       "OriginalItemSpec": "wwwroot\\images\\1c86e0b0-4677-4b2a-9664-8124155d2576_361605744_652169700270623_5330293218732493276_n.jpg"
     },
     {
+<<<<<<< HEAD
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\262a2e7e-742d-4f4f-a0dc-7bf11c42b2cf_man1.jpg",
+=======
       "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\262a2e7e-742d-4f4f-a0dc-7bf11c42b2cf_man1.jpg",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
@@ -151,9 +158,29 @@
     },
     {
       "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\3bdf1273-820e-49cc-bde3-094c24931143_team lady.jpg",
+>>>>>>> 58b9c64f64f6d5e3beab31bbbbf4112a77ba1d64
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
+      "BasePath": "_content/CK41Tours",
+      "RelativePath": "images/262a2e7e-742d-4f4f-a0dc-7bf11c42b2cf_man1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\262a2e7e-742d-4f4f-a0dc-7bf11c42b2cf_man1.jpg"
+    },
+    {
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\3bdf1273-820e-49cc-bde3-094c24931143_team lady.jpg",
+      "SourceId": "CK41Tours",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "images/3bdf1273-820e-49cc-bde3-094c24931143_team lady.jpg",
       "AssetKind": "All",
@@ -169,10 +196,10 @@
       "OriginalItemSpec": "wwwroot\\images\\3bdf1273-820e-49cc-bde3-094c24931143_team lady.jpg"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\6dd47060-f115-4dee-999f-3d4bd863a9ea_Group.jpg",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\6dd47060-f115-4dee-999f-3d4bd863a9ea_Group.jpg",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "images/6dd47060-f115-4dee-999f-3d4bd863a9ea_Group.jpg",
       "AssetKind": "All",
@@ -188,10 +215,10 @@
       "OriginalItemSpec": "wwwroot\\images\\6dd47060-f115-4dee-999f-3d4bd863a9ea_Group.jpg"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\70cc1875-4976-4319-8c89-b28c57f7dc15_347650928_1173892366619310_3925718435711192557_n.jpg",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\70cc1875-4976-4319-8c89-b28c57f7dc15_347650928_1173892366619310_3925718435711192557_n.jpg",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "images/70cc1875-4976-4319-8c89-b28c57f7dc15_347650928_1173892366619310_3925718435711192557_n.jpg",
       "AssetKind": "All",
@@ -207,10 +234,10 @@
       "OriginalItemSpec": "wwwroot\\images\\70cc1875-4976-4319-8c89-b28c57f7dc15_347650928_1173892366619310_3925718435711192557_n.jpg"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\7889a074-439c-4195-9e8c-71fb1c41a9fc_lady1.jpg",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\7889a074-439c-4195-9e8c-71fb1c41a9fc_lady1.jpg",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "images/7889a074-439c-4195-9e8c-71fb1c41a9fc_lady1.jpg",
       "AssetKind": "All",
@@ -226,10 +253,10 @@
       "OriginalItemSpec": "wwwroot\\images\\7889a074-439c-4195-9e8c-71fb1c41a9fc_lady1.jpg"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\7d3d1bd0-241a-4537-820c-9b2f858c9ebe_man2.jpg",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\7d3d1bd0-241a-4537-820c-9b2f858c9ebe_man2.jpg",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "images/7d3d1bd0-241a-4537-820c-9b2f858c9ebe_man2.jpg",
       "AssetKind": "All",
@@ -245,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\7d3d1bd0-241a-4537-820c-9b2f858c9ebe_man2.jpg"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\94a37db8-5b0d-49e4-8a42-301081d25701_Event.jpg",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\94a37db8-5b0d-49e4-8a42-301081d25701_Event.jpg",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "images/94a37db8-5b0d-49e4-8a42-301081d25701_Event.jpg",
       "AssetKind": "All",
@@ -264,10 +291,10 @@
       "OriginalItemSpec": "wwwroot\\images\\94a37db8-5b0d-49e4-8a42-301081d25701_Event.jpg"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\b8c5b47e-1e34-4676-8704-c5e30b3c6a4b_361613710_652169256937334_7949624172686681308_n.jpg",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\b8c5b47e-1e34-4676-8704-c5e30b3c6a4b_361613710_652169256937334_7949624172686681308_n.jpg",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "images/b8c5b47e-1e34-4676-8704-c5e30b3c6a4b_361613710_652169256937334_7949624172686681308_n.jpg",
       "AssetKind": "All",
@@ -283,10 +310,10 @@
       "OriginalItemSpec": "wwwroot\\images\\b8c5b47e-1e34-4676-8704-c5e30b3c6a4b_361613710_652169256937334_7949624172686681308_n.jpg"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\bdeda9cc-b700-46fa-b1e0-6af37c651589_lady5.jpg",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\bdeda9cc-b700-46fa-b1e0-6af37c651589_lady5.jpg",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "images/bdeda9cc-b700-46fa-b1e0-6af37c651589_lady5.jpg",
       "AssetKind": "All",
@@ -302,10 +329,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bdeda9cc-b700-46fa-b1e0-6af37c651589_lady5.jpg"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\d217ca6c-38a7-4575-b2b6-45a39de77e8a_team man.jpg",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\d217ca6c-38a7-4575-b2b6-45a39de77e8a_team man.jpg",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "images/d217ca6c-38a7-4575-b2b6-45a39de77e8a_team man.jpg",
       "AssetKind": "All",
@@ -321,10 +348,10 @@
       "OriginalItemSpec": "wwwroot\\images\\d217ca6c-38a7-4575-b2b6-45a39de77e8a_team man.jpg"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\d610e478-f9b7-4bf3-a7d8-cfae5a8a20b2_adventure.jpg",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\d610e478-f9b7-4bf3-a7d8-cfae5a8a20b2_adventure.jpg",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "images/d610e478-f9b7-4bf3-a7d8-cfae5a8a20b2_adventure.jpg",
       "AssetKind": "All",
@@ -340,10 +367,10 @@
       "OriginalItemSpec": "wwwroot\\images\\d610e478-f9b7-4bf3-a7d8-cfae5a8a20b2_adventure.jpg"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\e786274d-e14d-49a3-b2aa-5bd8d8e8e647_Luxury.jpg",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\e786274d-e14d-49a3-b2aa-5bd8d8e8e647_Luxury.jpg",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "images/e786274d-e14d-49a3-b2aa-5bd8d8e8e647_Luxury.jpg",
       "AssetKind": "All",
@@ -359,10 +386,10 @@
       "OriginalItemSpec": "wwwroot\\images\\e786274d-e14d-49a3-b2aa-5bd8d8e8e647_Luxury.jpg"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\edc62349-b930-4cfb-b21b-cbd903bf5403_lady3.jpg",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\edc62349-b930-4cfb-b21b-cbd903bf5403_lady3.jpg",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "images/edc62349-b930-4cfb-b21b-cbd903bf5403_lady3.jpg",
       "AssetKind": "All",
@@ -378,10 +405,10 @@
       "OriginalItemSpec": "wwwroot\\images\\edc62349-b930-4cfb-b21b-cbd903bf5403_lady3.jpg"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\ef766e38-0662-483f-816d-0176e3ada549_361615045_652169553603971_7889021647957329736_n.jpg",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\ef766e38-0662-483f-816d-0176e3ada549_361615045_652169553603971_7889021647957329736_n.jpg",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "images/ef766e38-0662-483f-816d-0176e3ada549_361615045_652169553603971_7889021647957329736_n.jpg",
       "AssetKind": "All",
@@ -397,10 +424,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ef766e38-0662-483f-816d-0176e3ada549_361615045_652169553603971_7889021647957329736_n.jpg"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\ef8d161e-ec4c-4f77-adfc-28aa6f8a9f56_lady6.jpg",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\ef8d161e-ec4c-4f77-adfc-28aa6f8a9f56_lady6.jpg",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "images/ef8d161e-ec4c-4f77-adfc-28aa6f8a9f56_lady6.jpg",
       "AssetKind": "All",
@@ -416,10 +443,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ef8d161e-ec4c-4f77-adfc-28aa6f8a9f56_lady6.jpg"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\js\\site.js",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -435,10 +462,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -454,10 +481,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -473,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -492,10 +519,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -511,10 +538,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -530,10 +557,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -549,10 +576,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -568,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -587,10 +614,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -606,10 +633,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -625,10 +652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -644,10 +671,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -663,10 +690,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -682,10 +709,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -701,10 +728,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -720,10 +747,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -739,10 +766,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -758,10 +785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -777,10 +804,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -796,10 +823,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -815,10 +842,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -834,10 +861,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -853,10 +880,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -872,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -891,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -910,10 +937,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -929,10 +956,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -948,10 +975,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -967,10 +994,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -986,10 +1013,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1005,10 +1032,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1024,10 +1051,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1043,10 +1070,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1062,10 +1089,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1081,10 +1108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1100,10 +1127,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1119,10 +1146,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1138,10 +1165,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1157,10 +1184,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1176,10 +1203,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1195,10 +1222,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1214,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1233,10 +1260,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1252,10 +1279,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1271,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1290,10 +1317,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1309,10 +1336,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1328,10 +1355,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1347,10 +1374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1366,10 +1393,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1385,10 +1412,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1404,10 +1431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1423,10 +1450,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1442,10 +1469,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1461,10 +1488,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1480,10 +1507,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1499,10 +1526,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "CK41Tours",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "ContentRoot": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\",
       "BasePath": "_content/CK41Tours",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

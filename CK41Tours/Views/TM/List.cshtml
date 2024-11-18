@@ -44,7 +44,8 @@
                 <tr>
                     <th scope="row">@i</th>
                     <td>
-                        <img src="~/images/@item.TM02" class="square-photo" height="100" wiTMh="100" asp-append-version="true" />
+                        <a href="#photoModal" data-bs-toggle="modal" data-bs-target="#photoModal" data-img-src="@Url.Content("~/images/" + item.TM02)">
+                            <img src="@Url.Content("~/images/" + item.TM02)" class="square-photo" height="100" width="100" asp-append-version="true" />
                     </td>
                     <td>@item.TM01</td>
                     <td>@item.TM03</td>
@@ -69,3 +70,30 @@
     </tbody>
 </table>
 <a href="/TM/entry" class="btn btn-primary">Entry</a>
+
+<div class="modal fade" id="photoModal" tabindex="-1" aria-labelledby="photoModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="photoModalLabel">Team Member Photo</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body text-center">
+                <img id="modalImage" src="" alt="Team Member Photo" class="img-fluid" />
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+      
+        const photoModal = document.getElementById('photoModal');
+        photoModal.addEventListener('show.bs.modal', function (event) {
+            const button = event.relatedTarget;
+            const imgSrc = button.getAttribute('data-img-src'); 
+            const modalImage = document.getElementById('modalImage'); 
+            modalImage.src = imgSrc;
+        });
+    </script>
+}
