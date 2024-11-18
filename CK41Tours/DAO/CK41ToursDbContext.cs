@@ -1,5 +1,6 @@
 ﻿using CK41Tours.Models.DataModels;
 using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
 
 namespace CK41Tours.DAO
 {
@@ -10,5 +11,6 @@ namespace CK41Tours.DAO
         public DbSet<TGEntity> TGs {  get; set; }
         public DbSet<TMEntity> TMEs { get; set; }
         public DbSet<TTEntity> TTs { get; set; }
+        public DbSet<DDEntity> DDs { get; set; }
     }
 }
