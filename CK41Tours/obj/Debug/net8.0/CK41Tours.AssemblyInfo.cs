@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CK41Tours")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c95cbb9ffeaeec1ba257f9c2022ee782e7271d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e463878ecc2ffeaaec6697973cd8167449bdeb6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CK41Tours")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CK41Tours")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
