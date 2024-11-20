@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sqp19GbQQGdwF+C+yItLssBMIMNOJQdQgKjb6uhaltk=",
+  "Hash": "12HLd/zw9o6jdI0jb0dkhdiHZg6VkkSOp7ZAe8HMeNk=",
   "Source": "CK41Tours",
   "BasePath": "_content/CK41Tours",
   "Mode": "Default",
@@ -2561,6 +2561,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\3bdf1273-820e-49cc-bde3-094c24931143_team lady.jpg"
+    },
+    {
+      "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\4b02c4f2-97e2-4322-8296-88a66624d17b_361613710_652169256937334_7949624172686681308_n.jpg",
+      "SourceId": "CK41Tours",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\",
+      "BasePath": "_content/CK41Tours",
+      "RelativePath": "images/4b02c4f2-97e2-4322-8296-88a66624d17b_361613710_652169256937334_7949624172686681308_n.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4b02c4f2-97e2-4322-8296-88a66624d17b_361613710_652169256937334_7949624172686681308_n.jpg"
     },
     {
       "Identity": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\6dd47060-f115-4dee-999f-3d4bd863a9ea_Group.jpg",
