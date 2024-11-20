@@ -46,6 +46,7 @@
                     <td>
                         <a href="#photoModal" data-bs-toggle="modal" data-bs-target="#photoModal" data-img-src="@Url.Content("~/images/" + item.TM02)">
                             <img src="@Url.Content("~/images/" + item.TM02)" class="square-photo" height="100" width="100" asp-append-version="true" />
+                        </a>
                     </td>
                     <td>@item.TM01</td>
                     <td>@item.TM03</td>
@@ -87,13 +88,16 @@
 
 @section Scripts {
     <script>
-      
         const photoModal = document.getElementById('photoModal');
         photoModal.addEventListener('show.bs.modal', function (event) {
             const button = event.relatedTarget;
-            const imgSrc = button.getAttribute('data-img-src'); 
-            const modalImage = document.getElementById('modalImage'); 
-            modalImage.src = imgSrc;
+            const imgSrc = button ? button.getAttribute('data-img-src') : '';
+            const modalImage = document.getElementById('modalImage');
+            if (imgSrc) {
+                modalImage.src = imgSrc;
+            } else {
+                console.error('Image source not found');
+            }
         });
     </script>
 }
