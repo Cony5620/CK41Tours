@@ -17,159 +17,159 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CK41Tours
 build_property.RootNamespace = CK41Tours
-build_property.ProjectDir = D:\AMMT\My Project\CK41\CK41\CK41Tours\
+build_property.ProjectDir = D:\Myproject\CK41Tours\CK41Tours\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\AMMT\My Project\CK41\CK41\CK41Tours
+build_property.MSBuildProjectDirectory = D:\Myproject\CK41Tours\CK41Tours
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Areas/Identity/Pages/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Areas/Identity/Pages/Account/Login.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Areas/Identity/Pages/Account/Logout.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Areas/Identity/Pages/Account/Manage/Email.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Areas/Identity/Pages/Account/Register.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Areas/Identity/Pages/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Areas/Identity/Pages/_ViewImports.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/DT/Edit.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/DT/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRFRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/DT/Entry.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/DT/Entry.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRFRcRW50cnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/DT/List.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/DT/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRFRcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/Home/Index.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/Home/Privacy.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/Shared/Error.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/Shared/_LoginPartial.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/TG/Edit.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/TG/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEdcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/TG/Entry.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/TG/Entry.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEdcRW50cnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/TG/List.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/TG/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEdcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/TM/Edit.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/TM/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE1cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/TM/Entry.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/TM/Entry.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE1cRW50cnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/TM/List.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/TM/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE1cTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/TT/Edit.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/TT/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/TT/Entry.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/TT/Entry.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFRcRW50cnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/TT/List.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/TT/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFRcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/_ViewImports.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/_ViewStart.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/Shared/_Layout.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-q3jz98p7kr
 
-[D:/AMMT/My Project/CK41/CK41/CK41Tours/Views/Shared/_Layout_Old.cshtml]
+[D:/Myproject/CK41Tours/CK41Tours/Views/Shared/_Layout_Old.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfT2xkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-id8dj4qcsh
