@@ -7656,7 +7656,7 @@
       ]
     },
     "System.Numerics.Vectors/4.5.0": {
-      "sha512": "nATsBTD2CKr4AYN6eRszhX4sptImWmBJwB/U6XKCWWfnCcrTBw8XSCm3QA9gjppkHTr8OkXUY21MR91D3QZXsw==",
+      "sha512": "QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
       "type": "package",
       "path": "system.numerics.vectors/4.5.0",
       "files": [
@@ -8490,23 +8490,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kaung\\.nuget\\packages\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Myproject\\CK41Tours\\CK41Tours\\CK41Tours.csproj",
+      "projectUniqueName": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\CK41Tours.csproj",
       "projectName": "CK41Tours",
-      "projectPath": "D:\\Myproject\\CK41Tours\\CK41Tours\\CK41Tours.csproj",
-      "packagesPath": "C:\\Users\\kaung\\.nuget\\packages\\",
-      "outputPath": "D:\\Myproject\\CK41Tours\\CK41Tours\\obj\\",
+      "projectPath": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\CK41Tours.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\kaung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8598,7 +8598,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
