@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\CK41Tours.bundle.scp.css"
     },
     {
+      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
       "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -315,6 +319,38 @@
     {
       "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\94a37db8-5b0d-49e4-8a42-301081d25701_Event.jpg",
       "PackagePath": "staticwebassets\\images\\94a37db8-5b0d-49e4-8a42-301081d25701_Event.jpg"
+    },
+    {
+      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\Admin\\Logo.png",
+      "PackagePath": "staticwebassets\\images\\Admin\\Logo.png"
+    },
+    {
+      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\Admin\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\Admin\\bg.jpg"
+    },
+    {
+      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\Admin\\coming soon.jpg",
+      "PackagePath": "staticwebassets\\images\\Admin\\coming soon.jpg"
+    },
+    {
+      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\Admin\\coming soon.png",
+      "PackagePath": "staticwebassets\\images\\Admin\\coming soon.png"
+    },
+    {
+      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\Admin\\coming soon1.jpg",
+      "PackagePath": "staticwebassets\\images\\Admin\\coming soon1.jpg"
+    },
+    {
+      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\Admin\\coming soon2.jpg",
+      "PackagePath": "staticwebassets\\images\\Admin\\coming soon2.jpg"
+    },
+    {
+      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\Admin\\user.jpg",
+      "PackagePath": "staticwebassets\\images\\Admin\\user.jpg"
+    },
+    {
+      "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\Admin\\user.png",
+      "PackagePath": "staticwebassets\\images\\Admin\\user.png"
     },
     {
       "Id": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\images\\b8c5b47e-1e34-4676-8704-c5e30b3c6a4b_361613710_652169256937334_7949624172686681308_n.jpg",

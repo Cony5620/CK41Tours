@@ -7,20 +7,72 @@
       "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\wwwroot\\dist\\css\\adminlte.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\wwwroot\\dist\\css\\adminlte.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\wwwroot\\dist\\css\\alt\\adminlte.core.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\wwwroot\\dist\\css\\alt\\adminlte.core.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\wwwroot\\dist\\css\\alt\\adminlte.components.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\wwwroot\\dist\\css\\alt\\adminlte.components.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\wwwroot\\dist\\css\\adminlte.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\wwwroot\\dist\\css\\adminlte.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\wwwroot\\dist\\css\\adminlte.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\wwwroot\\dist\\css\\adminlte.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\wwwroot\\dist\\css\\alt\\adminlte.core.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\wwwroot\\dist\\css\\alt\\adminlte.core.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -43,16 +95,8 @@
       "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\ammt\\my project\\ck41\\ck41\\ck41tours\\migrations\\20241120082047_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,11 +110,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "adminlte.css",
+              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\dist\\css\\adminlte.css",
+              "RelativeDocumentMoniker": "CK41Tours\\wwwroot\\dist\\css\\adminlte.css",
+              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\dist\\css\\adminlte.css",
+              "RelativeToolTip": "CK41Tours\\wwwroot\\dist\\css\\adminlte.css",
+              "ViewState": "AgIAAENXAAAAAAAAAAAqwFFXAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T19:47:44.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "login.css",
+              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "CK41Tours\\wwwroot\\css\\login.css",
+              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "CK41Tours\\wwwroot\\css\\login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T14:13:50.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CK41Tours\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CK41Tours\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAMwHEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T06:22:01.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "CK41Tours\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "CK41Tours\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T07:56:05.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "adminlte.core.css",
+              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\dist\\css\\alt\\adminlte.core.css",
+              "RelativeDocumentMoniker": "CK41Tours\\wwwroot\\dist\\css\\alt\\adminlte.core.css",
+              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\dist\\css\\alt\\adminlte.core.css",
+              "RelativeToolTip": "CK41Tours\\wwwroot\\dist\\css\\alt\\adminlte.core.css",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T20:06:57.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CK41Tours\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CK41Tours\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAAPsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T06:55:51.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "adminlte.components.css",
+              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\dist\\css\\alt\\adminlte.components.css",
+              "RelativeDocumentMoniker": "CK41Tours\\wwwroot\\dist\\css\\alt\\adminlte.components.css",
+              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\dist\\css\\alt\\adminlte.components.css",
+              "RelativeToolTip": "CK41Tours\\wwwroot\\dist\\css\\alt\\adminlte.components.css",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T20:06:53.203Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -80,14 +219,79 @@
               "RelativeDocumentMoniker": "CK41Tours\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeToolTip": "CK41Tours\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-21T07:44:23.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "CK41Tours\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "CK41Tours\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T20:03:02.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "adminlte.plugins.css",
+              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css",
+              "RelativeDocumentMoniker": "CK41Tours\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css",
+              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css",
+              "RelativeToolTip": "CK41Tours\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T20:07:07.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "adminlte.min.css.map",
+              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\dist\\css\\adminlte.min.css.map",
+              "RelativeDocumentMoniker": "CK41Tours\\wwwroot\\dist\\css\\adminlte.min.css.map",
+              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\dist\\css\\adminlte.min.css.map",
+              "RelativeToolTip": "CK41Tours\\wwwroot\\dist\\css\\adminlte.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAADQiQYAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACbSURBVDhPY2SAgm/fvv2HMrGBD0DsyMXFdQHChYL///\u002BjGODj4wPloQIXFxeGgoICrIYwQWm8YM\u002BePQwTJkwQADL3Ay0ygIhCAFYXrFu7HkzDQFBwIJjG5hKcLgBpgmmEAWSXQESIdAEMwAzcsmULA9AFYL0EXYDNJcgApwEgVyBjXGDUBTiikRAgKhqJBSgugDKJAjAXUAgYGAACRGV6yheEQwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-21T19:32:10.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "adminlte.core.css.map",
+              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\dist\\css\\alt\\adminlte.core.css.map",
+              "RelativeDocumentMoniker": "CK41Tours\\wwwroot\\dist\\css\\alt\\adminlte.core.css.map",
+              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\dist\\css\\alt\\adminlte.core.css.map",
+              "RelativeToolTip": "CK41Tours\\wwwroot\\dist\\css\\alt\\adminlte.core.css.map",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAG0AAAAkAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACbSURBVDhPY2SAgm/fvv2HMrGBD0DsyMXFdQHChYL///\u002BjGODj4wPloQIXFxeGgoICrIYwQWm8YM\u002BePQwTJkwQADL3Ay0ygIhCAFYXrFu7HkzDQFBwIJjG5hKcLgBpgmmEAWSXQESIdAEMwAzcsmULA9AFYL0EXYDNJcgApwEgVyBjXGDUBTiikRAgKhqJBSgugDKJAjAXUAgYGAACRGV6yheEQwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-21T19:29:22.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CK41Tours\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CK41Tours\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T19:19:10.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "CK41Tours\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -95,49 +299,38 @@
               "RelativeToolTip": "CK41Tours\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T07:56:02.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\appsettings.json",
-              "RelativeDocumentMoniker": "CK41Tours\\appsettings.json",
-              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\appsettings.json",
-              "RelativeToolTip": "CK41Tours\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-21T06:57:40.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "CK41Tours\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "CK41Tours\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T06:22:01.952Z",
+              "WhenOpened": "2024-11-21T07:56:02.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Program.cs",
-              "RelativeDocumentMoniker": "CK41Tours\\Program.cs",
-              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Program.cs",
-              "RelativeToolTip": "CK41Tours\\Program.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAowHYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T07:38:58.172Z",
+              "DocumentIndex": 13,
+              "Title": "adminlte.core.min.css.map",
+              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css.map",
+              "RelativeDocumentMoniker": "CK41Tours\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css.map",
+              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css.map",
+              "RelativeToolTip": "CK41Tours\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZEwAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACbSURBVDhPY2SAgm/fvv2HMrGBD0DsyMXFdQHChYL///\u002BjGODj4wPloQIXFxeGgoICrIYwQWm8YM\u002BePQwTJkwQADL3Ay0ygIhCAFYXrFu7HkzDQFBwIJjG5hKcLgBpgmmEAWSXQESIdAEMwAzcsmULA9AFYL0EXYDNJcgApwEgVyBjXGDUBTiikRAgKhqJBSgugDKJAjAXUAgYGAACRGV6yheEQwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-21T19:32:02.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
+              "Title": "adminlte.css.map",
+              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\dist\\css\\adminlte.css.map",
+              "RelativeDocumentMoniker": "CK41Tours\\wwwroot\\dist\\css\\adminlte.css.map",
+              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\wwwroot\\dist\\css\\adminlte.css.map",
+              "RelativeToolTip": "CK41Tours\\wwwroot\\dist\\css\\adminlte.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhEgAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACbSURBVDhPY2SAgm/fvv2HMrGBD0DsyMXFdQHChYL///\u002BjGODj4wPloQIXFxeGgoICrIYwQWm8YM\u002BePQwTJkwQADL3Ay0ygIhCAFYXrFu7HkzDQFBwIJjG5hKcLgBpgmmEAWSXQESIdAEMwAzcsmULA9AFYL0EXYDNJcgApwEgVyBjXGDUBTiikRAgKhqJBSgugDKJAjAXUAgYGAACRGV6yheEQwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-21T19:32:07.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "CK41Tours\\Views\\_ViewStart.cshtml",
@@ -150,20 +343,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Program.cs",
+              "RelativeDocumentMoniker": "CK41Tours\\Program.cs",
+              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Program.cs",
+              "RelativeToolTip": "CK41Tours\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAASwGcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:38:58.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeToolTip": "CK41Tours\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAALoAAAAAAAAAAAAswOcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAmwOcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T07:44:48.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\appsettings.json",
+              "RelativeDocumentMoniker": "CK41Tours\\appsettings.json",
+              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\appsettings.json",
+              "RelativeToolTip": "CK41Tours\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T06:57:40.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Controllers\\HomeController.cs",
@@ -171,11 +390,12 @@
               "RelativeToolTip": "CK41Tours\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T07:41:29.35Z"
+              "WhenOpened": "2024-11-21T07:41:29.35Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "CK41Tours\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
@@ -183,23 +403,12 @@
               "RelativeToolTip": "CK41Tours\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T06:22:09.724Z"
+              "WhenOpened": "2024-11-21T06:22:09.724Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "CK41Tours\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "CK41Tours\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T07:56:05.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "CK41Tours\\Views\\_ViewImports.cshtml",
@@ -207,43 +416,34 @@
               "RelativeToolTip": "CK41Tours\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T07:56:34.611Z"
+              "WhenOpened": "2024-11-21T07:56:34.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\appsettings.Development.json",
               "RelativeDocumentMoniker": "CK41Tours\\appsettings.Development.json",
               "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\appsettings.Development.json",
               "RelativeToolTip": "CK41Tours\\appsettings.Development.json",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAABUwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-21T07:56:41.517Z"
+              "WhenOpened": "2024-11-21T07:56:41.517Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "CK41Tours\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "CK41Tours\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T06:55:51.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "20241120082047_Identity.cs",
               "DocumentMoniker": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Migrations\\20241120082047_Identity.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Migrations\\20241120082047_Identity.cs",
               "ToolTip": "D:\\AMMT\\My Project\\CK41\\CK41\\CK41Tours\\Migrations\\20241120082047_Identity.cs",
               "RelativeToolTip": "CK41Tours\\Migrations\\20241120082047_Identity.cs",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAAAAKMAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAJsAAAAAAAAAAABOwKMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T06:43:59.947Z"
+              "WhenOpened": "2024-11-21T06:43:59.947Z",
+              "EditorCaption": ""
             }
           ]
         }
