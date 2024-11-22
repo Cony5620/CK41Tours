@@ -1,0 +1,195 @@
+/* General page background with gradient */
+body {
+    /*background: linear-gradient(to right, #00c6ff, #0072ff);*/ /* Radiant gradient from blue to dark blue */
+    background: linear-gradient(to bottom, #ebf2f5, #2596be); /* Pink to yellow gradient */
+    /*background: linear-gradient(to bottom right, #ff416c, #ff4b2b);*/ /* Red to orange gradient */
+    /*background: linear-gradient(to bottom right, #ff416c, #ff4b2b);*/ /* Red to orange gradient */
+    /*background: radial-gradient(circle, #00c6ff, #0072ff);*/ /* Radiant center circle */
+
+
+
+
+    font-family: Arial, sans-serif;
+    color: #333;
+    /*padding-top: 50px;*/
+    padding-bottom: 20px;
+    overflow: hidden;
+}
+
+/* The rest of your login box and form styling remains the same as before */
+
+
+/* Container for the login form */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+/* Login box styling */
+.login-box {
+    background-color: rgba(255, 255, 255, 0.95);
+    padding: 20px 30px; /* Increased padding */
+    border-radius: 50px;
+    box-shadow: 0 15px 26px rgba(0, 0, 0, 0.2); /* Enhanced shadow */
+    border: 4px solid darkred; /* Customizable border color */
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+    animation: fadeIn 1s ease; /* Animation */
+}
+
+/* Logo styling */
+.login-logo {
+    max-width: 150px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+}
+
+/* Rounded textboxes */
+.rounded-input {
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 1rem;
+}
+
+/* Align labels */
+.align-label {
+    width: 100%;
+    text-align: left;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+/* Button styling */
+#login-submit {
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 1.2rem;
+    background-color: #007bff;
+    color: #fff;
+    transition: background-color 0.3s ease, transform 0.2s;
+}
+
+    #login-submit:hover {
+        background-color: #0056b3;
+        transform: scale(1.05); /* Button hover animation */
+    }
+
+/* Link styling */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+/* Validation error styling */
+.text-danger {
+    font-size: 0.9rem;
+    color: #dc3545;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Add padding to the row containing the login form */
+.row {
+    padding-top: 20px; /* Top padding */
+    padding-bottom: 20px; /* Bottom padding */
+    padding-left: 15px; /* Left padding */
+    padding-right: 15px; /* Right padding */
+}
+
+/* Adjust padding for the login box (section around the form) */
+section {
+    padding: 30px; /* You can increase or decrease the padding here */
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Adjust the form itself to add more space between the elements */
+form {
+    padding: 20px; /* Adds space inside the form elements */
+}
+
+/* Container for the login form */
+form {
+    max-width: 400px; /* Set a fixed width for the form container */
+    margin: 0 auto; /* Center the form on the page */
+    padding: 20px; /* Add padding inside the form */
+}
+
+/* Style for the form floating labels and input fields */
+.form-floating {
+    margin-bottom: 20px; /* Add spacing between form elements */
+}
+
+    /* Style for labels */
+    .form-floating label {
+        font-size: 14px; /* Ensure label text is readable */
+        font-weight: 600; /* Bold text for labels */
+        text-align: left; /* Align labels to the left */
+        margin-bottom: 5px; /* Add spacing below the label */
+        display: block; /* Ensure labels occupy full width */
+    }
+
+    /* Style for input fields */
+    .form-floating input.form-control {
+        width: 100%; /* Make the textbox occupy full width */
+        padding: 10px; /* Add padding inside the textbox */
+        font-size: 14px; /* Adjust font size for readability */
+        border-radius: 5px; /* Add rounded corners */
+        border: 1px solid #ced4da; /* Standard border style */
+        box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1); /* Subtle inner shadow */
+    }
+
+/* Button styling */
+button#login-submit {
+    width: 100%; /* Make the button occupy full width */
+    padding: 12px 0; /* Adjust padding for height */
+    font-size: 16px; /* Adjust font size */
+    font-weight: bold; /* Make button text bold */
+    border-radius: 5px; /* Add rounded corners */
+    background: linear-gradient(90deg, #007bff, #0056b3); /* Gradient background */
+    color: white; /* Button text color */
+    border: none; /* Remove border */
+    transition: all 0.3s ease-in-out; /* Add smooth hover animation */
+}
+
+    /* Button hover effect */
+    button#login-submit:hover {
+        background: linear-gradient(90deg, #0056b3, #003f7f); /* Darker gradient on hover */
+        transform: scale(1.02); /* Slightly enlarge the button */
+    }
+
+/* Adjust for smaller screens */
+@media (max-width: 576px) {
+    form {
+        padding: 15px; /* Reduce padding on smaller screens */
+    }
+
+    .form-floating input.form-control {
+        font-size: 12px; /* Smaller font for inputs on small screens */
+    }
+
+    button#login-submit {
+        font-size: 14px; /* Smaller button font on small screens */
+    }
+}
+
+

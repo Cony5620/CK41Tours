@@ -20,3 +20,84 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+/* Center the Coming Soon section on the page */
+.coming-soon-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Full page height */
+    text-align: center;
+    background: linear-gradient(120deg, #f0f0f0, #e0e0e0); /* Light gradient background */
+    padding: 20px;
+    animation: fadeIn 1.5s ease-in-out; /* Fade-in animation */
+}
+
+/* Style the image */
+.coming-soon-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+    margin-bottom: 20px;
+    animation: pulse 2s infinite; /* Pulsating effect */
+}
+
+/* Style the heading */
+.coming-soon-container h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 10px;
+    animation: slideDown 1s ease-out; /* Slide down effect */
+}
+
+/* Style the paragraph */
+.coming-soon-container p {
+    font-size: 1.2rem;
+    color: #666;
+    animation: fadeInText 2s ease-in-out; /* Text fade-in animation */
+}
+
+/* Keyframes for animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes pulse {
+    0%, 100% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.05);
+    }
+}
+
+@keyframes slideDown {
+    from {
+        transform: translateY(-50px);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInText {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
