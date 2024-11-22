@@ -1,0 +1,15 @@
+﻿
+@{
+    Layout = "/identity/Account/Login.cshtml";
+}
+
+
+@* @{
+    var isAuthenticated = Context.User.Identity.IsAuthenticated; // Check if the user is logged in
+    var currentPath = Context.Request.Path.ToString().ToLower();
+
+    // If user is not authenticated and is on the login page, do not use a layout
+    Layout = (!isAuthenticated && currentPath.Contains("/identity/account/login"))
+        ? null
+        : "~/Views/Shared/_Layout.cshtml";
+} *@
