@@ -1,0 +1,173 @@
+﻿@model IEnumerable<DDViewModel>
+@{
+    ViewData["Title"] = "Destination List";
+}
+<h3>Destination List</h3>
+
+@{
+    var info = TempData["info"];
+}
+@if (info != null)
+{
+    @if (Convert.ToBoolean(TempData["status"]))
+    {
+        <div class="alert alert-success" role="alert">
+            @info
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-danger" role="alert">
+            @info
+        </div>
+    }
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Destination Photo</th>
+            <th scope="col">Destination Type</th>
+            <th scope="col">Description</th>
+            <th scope="col">Price Includes</th>
+            <th scope="col">Departure & Return Location</th>
+            <th scope="col">Average Reviews</th>
+            <th scope="col">Tag</th>
+            <th scope="col">Gallery 1</th>
+            <th scope="col">Gallery 2</th>
+            <th scope="col">Team Member</th>
+            <th scope="col">Travel Type</th>
+            <th scope="col">Actions</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Any())
+        {
+            int i = 1;
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th scope="row">@i</th>
+                    <td>
+                        <!-- Thumbnail Image with Popup -->
+                        <a href="#photoModal" data-bs-toggle="modal" data-bs-target="#photoModal" data-img-src="@Url.Content("~/images/" + item.DD03)">
+                            <img src="@Url.Content("~/images/" + item.DD03)" class="square-photo" height="100" width="100" asp-append-version="true" />
+                        </a>
+                    </td>
+                    <td>@item.DD01</td>
+                    <td>@item.DD02</td>
+                    <td>@item.DD04</td>
+                    <td>@item.DD05</td>
+                    <td>@item.DD06</td>
+                    <td>@item.DD07</td>
+                    <td>
+                        <a href="#galleryModal" data-bs-toggle="modal" data-bs-target="#galleryModal1" data-img-src="@Url.Content("~/images/" + item.DD08)">
+                            <img src="@Url.Content("~/images/" + item.DD08)" class="square-photo" height="100" width="100" />
+                        </a>
+                    </td>
+                    <td>
+                        <a href="#galleryModal" data-bs-toggle="modal" data-bs-target="#galleryModal2" data-img-src="@Url.Content("~/images/" + item.DD09)">
+                            <img src="@Url.Content("~/images/" + item.DD09)" class="square-photo" height="100" width="100" />
+                        </a>
+                    </td>
+                    <td>@item.DD10</td>
+                    <td>@item.DD11</td>
+                    <td>
+                        <a href="/DD/edit?id=@item.Id" class="btn btn-success">Edit</a>
+                        
+                    </td>
+                    <td>
+                        <a href="/DD/delete?id=@item.Id" class="btn btn-danger" onclick="return confirm('Are you sure to delete?');">Delete</a>
+                    </td>
+                </tr>
+                i++;
+            }
+        }
+        else
+        {
+            <div class="alert alert-danger" role="alert">
+                There is no data.
+            </div>
+        }
+    </tbody>
+</table>
+
+<a href="/DD/entry" class="btn btn-primary">Entry</a>
+
+<!-- Modal for Photo Popup -->
+<div class="modal fade" id="photoModal" tabindex="-1" aria-labelledby="photoModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="photoModalLabel">Destination Photo</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body text-center">
+                <img id="modalImage" src="" alt="Destination Photo" class="img-fluid" />
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal for Gallery 1 Popup -->
+<div class="modal fade" id="galleryModal1" tabindex="-1" aria-labelledby="galleryModalLabel1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="galleryModalLabel1">Gallery 1 Photo</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body text-center">
+                <img id="galleryImage1" src="" alt="Gallery 1 Photo" class="img-fluid" />
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal for Gallery 2 Popup -->
+<div class="modal fade" id="galleryModal2" tabindex="-1" aria-labelledby="galleryModalLabel2" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="galleryModalLabel2">Gallery 2 Photo</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body text-center">
+                <img id="galleryImage2" src="" alt="Gallery 2 Photo" class="img-fluid" />
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // Setup for photo modal to show clicked image
+        const photoModal = document.getElementById('photoModal');
+        photoModal.addEventListener('show.bs.modal', function (event) {
+            const button = event.relatedTarget;
+            const imgSrc = button.getAttribute('data-img-src');
+            const modalImage = document.getElementById('modalImage');
+            modalImage.src = imgSrc;
+        });
+
+        // Setup for gallery modals to show clicked image for Gallery 1
+        const galleryModal1 = document.getElementById('galleryModal1');
+        galleryModal1.addEventListener('show.bs.modal', function (event) {
+            const button = event.relatedTarget;
+            const imgSrc = button.getAttribute('data-img-src');
+            const galleryImage1 = document.getElementById('galleryImage1');
+            galleryImage1.src = imgSrc;
+        });
+
+        // Setup for gallery modals to show clicked image for Gallery 2
+        const galleryModal2 = document.getElementById('galleryModal2');
+        galleryModal2.addEventListener('show.bs.modal', function (event) {
+            const button = event.relatedTarget;
+            const imgSrc = button.getAttribute('data-img-src');
+            const galleryImage2 = document.getElementById('galleryImage2');
+            galleryImage2.src = imgSrc;
+        });
+    </script>
+}

@@ -4,7 +4,7 @@ using CK41Tours.UnitOfWorks;
 
 namespace CK41Tours.Services
 {
-    public class TGService : ITGService
+    public class TGService :ITGService
     {
         private readonly IUnitOfWork _unitOfWork;
 
@@ -62,6 +62,11 @@ namespace CK41Tours.Services
                 TG01 = s.TG01,
                 TG02 = s.TG02,
             }).FirstOrDefault();
+        }
+
+        public IEnumerable<TGViewModel> GetTG()
+        {
+            return _unitOfWork.TGRepository.GetTG();
         }
 
         public void Update(TGViewModel tGViewModel)

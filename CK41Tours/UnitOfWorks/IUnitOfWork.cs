@@ -7,6 +7,7 @@ namespace CK41Tours.UnitOfWorks
         IDTRepository DTRepository { get; } 
         ITMRepository TMRepository { get; }
         ITTRepository TTRepository { get; }
+        IDDRepository DDRepository { get; }
         void Commit();
         void RollBack();
     }

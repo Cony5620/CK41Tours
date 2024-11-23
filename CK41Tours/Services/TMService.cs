@@ -4,7 +4,7 @@ using CK41Tours.UnitOfWorks;
 
 namespace CK41Tours.Services
 {
-    public class TMService : ITMService
+    public class TMService :ITMService
     {
         private readonly IUnitOfWork _unitOfWork;
 
@@ -72,6 +72,11 @@ namespace CK41Tours.Services
                 TM04 = s.TM04,
                 TM05 = s.TM05,
             }).FirstOrDefault();
+        }
+
+        public IEnumerable<TMViewModel> GetTM()
+        {
+            return _unitOfWork.TMRepository.GetTM();
         }
 
         public void Update(TMViewModel TMViewModel, string photoUrl)

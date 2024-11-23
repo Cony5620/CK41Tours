@@ -4,7 +4,7 @@ using CK41Tours.UnitOfWorks;
 ///ammt 20241117
 namespace CK41Tours.Services
 {
-    public class TTService : ITTService
+    public class TTService :ITTService
     {
         private readonly IUnitOfWork _unitOfWork;
 
@@ -65,6 +65,11 @@ namespace CK41Tours.Services
                 TT02 = s.TT02,
                 TT03 = s.TT03,
             }).FirstOrDefault();
+        }
+
+        public IEnumerable<TTViewModel> GetTT()
+        {
+          return  _unitOfWork.TTRepository.GetTT();
         }
 
         public void Update(TTViewModel TTViewModel,string photoUrl)

@@ -3,7 +3,7 @@ using CK41Tours.Repositories.Domain;
 
 namespace CK41Tours.UnitOfWorks
 {
-    public class UnitOfWork : IUnitOfWork
+    public class UnitOfWork :IUnitOfWork
     {
         private readonly CK41ToursDbContext _dbContext;
 
@@ -47,6 +47,15 @@ namespace CK41Tours.UnitOfWorks
             }
         }
         #endregion
+        private IDDRepository _DDRepository;
+        public IDDRepository DDRepository
+        {
+            get
+            {
+                return _DDRepository=_DDRepository ?? new DDRepository(_dbContext);
+            }
+        }
+ 
 
         #region Commit
         public void Commit()

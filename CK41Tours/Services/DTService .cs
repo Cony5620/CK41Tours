@@ -4,7 +4,7 @@ using CK41Tours.UnitOfWorks;
 
 namespace CK41Tours.Services
 {
-    public class DTService : IDTService
+    public class DTService :IDTService
     {
         private readonly IUnitOfWork _unitOfWork;
 
@@ -54,6 +54,11 @@ namespace CK41Tours.Services
               DT02=s.DT02,
                DT03 = s.DT03,
            }).AsEnumerable();
+        }
+
+        public IEnumerable<DTViewModel> GetDT()
+        {
+            return _unitOfWork.DTRepository.GetDT();
         }
 
         public DTViewModel GettBy(string Id)

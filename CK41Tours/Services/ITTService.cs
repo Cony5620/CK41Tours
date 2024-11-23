@@ -9,5 +9,6 @@ namespace CK41Tours.Services
         TTViewModel GetBy(string Id);
         void Update(TTViewModel TTViewModel, string photoUrl);
         bool Delete(string Id);
+        IEnumerable<TTViewModel> GetTT();
     }
 }

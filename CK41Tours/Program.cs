@@ -78,6 +78,7 @@ builder.Services.AddTransient<ITGService, TGService>();
 builder.Services.AddTransient<IDTService, DTService>();
 builder.Services.AddTransient<ITMService, TMService>();
 builder.Services.AddTransient<ITTService, TTService>();
+builder.Services.AddTransient<IDDService,DDService>();
 
 // Add Razor Pages and Identity
 builder.Services.AddRazorPages();

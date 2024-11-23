@@ -90,6 +90,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Myproject/CK41Tours/CK41Tours/Views/DD/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRERcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myproject/CK41Tours/CK41Tours/Views/DD/Entry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRERcRW50cnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myproject/CK41Tours/CK41Tours/Views/DD/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRERcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Myproject/CK41Tours/CK41Tours/Views/DT/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRFRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

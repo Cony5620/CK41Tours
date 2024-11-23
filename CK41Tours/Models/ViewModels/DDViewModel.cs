@@ -15,7 +15,8 @@
         public string DD10 { get; set; }
         public string DD11 { get; set; }
 
-        public IFormFile? photoimg { get; set; }
-        public string? Photoimg { get; set; }
+        public IFormFile? photoimg { get; set; } 
+        public IFormFile? gallery1 { get; set; }
+        public IFormFile? gallery2 { get; set; }
     }
 }
