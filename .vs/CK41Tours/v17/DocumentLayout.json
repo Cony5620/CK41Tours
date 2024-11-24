@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Myproject\\CK41Tours\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\myproject\\ck41tours\\ck41tours\\views\\tm\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\views\\tm\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\myproject\\ck41tours\\ck41tours\\views\\tm\\entry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\views\\tm\\entry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\myproject\\ck41tours\\ck41tours\\views\\dt\\entry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\views\\dt\\entry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\myproject\\ck41tours\\ck41tours\\controllers\\ddcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\controllers\\ddcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -53,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\myproject\\ck41tours\\ck41tours\\views\\dt\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\views\\dt\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\myproject\\ck41tours\\ck41tours\\views\\dt\\entry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\views\\dt\\entry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\myproject\\ck41tours\\ck41tours\\services\\iddservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -186,10 +194,6 @@
       "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\models\\datamodels\\ddentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\myproject\\ck41tours\\ck41tours\\views\\tm\\entry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\views\\tm\\entry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\myproject\\ck41tours\\ck41tours\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -224,10 +228,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\myproject\\ck41tours\\ck41tours\\views\\tg\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\views\\tg\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\myproject\\ck41tours\\ck41tours\\views\\tm\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|solutionrelative:ck41tours\\views\\tm\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7095D12E-3C1F-4B6E-A33B-3FFE4EFE88F6}|CK41Tours\\CK41Tours.csproj|d:\\myproject\\ck41tours\\ck41tours\\views\\tt\\entry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -285,64 +285,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DDController.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Controllers\\DDController.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Controllers\\DDController.cs",
               "ToolTip": "D:\\Myproject\\CK41Tours\\CK41Tours\\Controllers\\DDController.cs",
               "RelativeToolTip": "CK41Tours\\Controllers\\DDController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAJYAAAAIAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwJYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T08:00:29.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DDService.cs",
-              "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Services\\DDService.cs",
-              "RelativeDocumentMoniker": "CK41Tours\\Services\\DDService.cs",
-              "ToolTip": "D:\\Myproject\\CK41Tours\\CK41Tours\\Services\\DDService.cs",
-              "RelativeToolTip": "CK41Tours\\Services\\DDService.cs",
-              "ViewState": "AQIAAHgAAAAAAAAAAAD4v4cAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T07:54:50.585Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\DT\\List.cshtml",
-              "RelativeDocumentMoniker": "CK41Tours\\Views\\DT\\List.cshtml",
-              "ToolTip": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\DT\\List.cshtml",
-              "RelativeToolTip": "CK41Tours\\Views\\DT\\List.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T16:03:38.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DDViewModel.cs",
-              "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Models\\ViewModels\\DDViewModel.cs",
-              "RelativeDocumentMoniker": "CK41Tours\\Models\\ViewModels\\DDViewModel.cs",
-              "ToolTip": "D:\\Myproject\\CK41Tours\\CK41Tours\\Models\\ViewModels\\DDViewModel.cs",
-              "RelativeToolTip": "CK41Tours\\Models\\ViewModels\\DDViewModel.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA4wAQAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T15:20:11.47Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Program.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Program.cs",
@@ -354,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "DTService .cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Services\\DTService .cs",
               "RelativeDocumentMoniker": "CK41Tours\\Services\\DTService .cs",
@@ -366,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "DTController.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Controllers\\DTController.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Controllers\\DTController.cs",
@@ -378,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\DD\\Edit.cshtml",
               "RelativeDocumentMoniker": "CK41Tours\\Views\\DD\\Edit.cshtml",
@@ -390,7 +358,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
+              "Title": "Entry.cshtml",
+              "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\DT\\Entry.cshtml",
+              "RelativeDocumentMoniker": "CK41Tours\\Views\\DT\\Entry.cshtml",
+              "ToolTip": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\DT\\Entry.cshtml",
+              "RelativeToolTip": "CK41Tours\\Views\\DT\\Entry.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T08:56:06.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entry.cshtml",
+              "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\TM\\Entry.cshtml",
+              "RelativeDocumentMoniker": "CK41Tours\\Views\\TM\\Entry.cshtml",
+              "ToolTip": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\TM\\Entry.cshtml",
+              "RelativeToolTip": "CK41Tours\\Views\\TM\\Entry.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T08:18:31.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\TM\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CK41Tours\\Views\\TM\\Edit.cshtml",
+              "ToolTip": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\TM\\Edit.cshtml",
+              "RelativeToolTip": "CK41Tours\\Views\\TM\\Edit.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T08:30:33.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DDViewModel.cs",
+              "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Models\\ViewModels\\DDViewModel.cs",
+              "RelativeDocumentMoniker": "CK41Tours\\Models\\ViewModels\\DDViewModel.cs",
+              "ToolTip": "D:\\Myproject\\CK41Tours\\CK41Tours\\Models\\ViewModels\\DDViewModel.cs",
+              "RelativeToolTip": "CK41Tours\\Models\\ViewModels\\DDViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA4wAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:20:11.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\DT\\List.cshtml",
+              "RelativeDocumentMoniker": "CK41Tours\\Views\\DT\\List.cshtml",
+              "ToolTip": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\DT\\List.cshtml",
+              "RelativeToolTip": "CK41Tours\\Views\\DT\\List.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T16:03:38.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DDService.cs",
+              "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Services\\DDService.cs",
+              "RelativeDocumentMoniker": "CK41Tours\\Services\\DDService.cs",
+              "ToolTip": "D:\\Myproject\\CK41Tours\\CK41Tours\\Services\\DDService.cs",
+              "RelativeToolTip": "CK41Tours\\Services\\DDService.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAD4v4cAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:54:50.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\DT\\Edit.cshtml",
               "RelativeDocumentMoniker": "CK41Tours\\Views\\DT\\Edit.cshtml",
@@ -402,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Entry.cshtml",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\DD\\Entry.cshtml",
               "RelativeDocumentMoniker": "CK41Tours\\Views\\DD\\Entry.cshtml",
@@ -414,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "List.cshtml",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\DD\\List.cshtml",
               "RelativeDocumentMoniker": "CK41Tours\\Views\\DD\\List.cshtml",
@@ -426,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "CK41ToursDbContext.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\DAO\\CK41ToursDbContext.cs",
               "RelativeDocumentMoniker": "CK41Tours\\DAO\\CK41ToursDbContext.cs",
@@ -438,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "IDDService .cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Services\\IDDService .cs",
               "RelativeDocumentMoniker": "CK41Tours\\Services\\IDDService .cs",
@@ -450,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "DDRepository.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Repositories\\Domain\\DDRepository.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Repositories\\Domain\\DDRepository.cs",
@@ -462,19 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Entry.cshtml",
-              "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\DT\\Entry.cshtml",
-              "RelativeDocumentMoniker": "CK41Tours\\Views\\DT\\Entry.cshtml",
-              "ToolTip": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\DT\\Entry.cshtml",
-              "RelativeToolTip": "CK41Tours\\Views\\DT\\Entry.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAQAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T08:56:06.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\UnitOfWorks\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "CK41Tours\\UnitOfWorks\\UnitOfWork.cs",
@@ -486,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "login.css",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\css\\login.css",
               "RelativeDocumentMoniker": "CK41Tours\\wwwroot\\css\\login.css",
@@ -498,7 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "DTViewModel.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Models\\ViewModels\\DTViewModel.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Models\\ViewModels\\DTViewModel.cs",
@@ -510,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "DTEntity.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Models\\DataModels\\DTEntity.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Models\\DataModels\\DTEntity.cs",
@@ -522,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "TTViewModel.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Models\\ViewModels\\TTViewModel.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Models\\ViewModels\\TTViewModel.cs",
@@ -534,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "TMViewModel.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Models\\ViewModels\\TMViewModel.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Models\\ViewModels\\TMViewModel.cs",
@@ -546,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "PKEntity.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Models\\DataModels\\PKEntity.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Models\\DataModels\\PKEntity.cs",
@@ -558,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "DTRepository.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Repositories\\Domain\\DTRepository.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Repositories\\Domain\\DTRepository.cs",
@@ -570,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "TGViewModel.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Models\\ViewModels\\TGViewModel.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Models\\ViewModels\\TGViewModel.cs",
@@ -582,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "TMService.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Services\\TMService.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Services\\TMService.cs",
@@ -594,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "ITMService.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Services\\ITMService.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Services\\ITMService.cs",
@@ -606,7 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "CK41Tours.csproj",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\CK41Tours.csproj",
               "RelativeDocumentMoniker": "CK41Tours\\CK41Tours.csproj",
@@ -618,7 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CK41Tours\\Views\\Shared\\_Layout.cshtml",
@@ -630,7 +661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "IDTService .cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Services\\IDTService .cs",
               "RelativeDocumentMoniker": "CK41Tours\\Services\\IDTService .cs",
@@ -642,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "ITGService.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Services\\ITGService.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Services\\ITGService.cs",
@@ -654,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\UnitOfWorks\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "CK41Tours\\UnitOfWorks\\IUnitOfWork.cs",
@@ -666,7 +697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "ITTService.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Services\\ITTService.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Services\\ITTService.cs",
@@ -678,7 +709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "TGService.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Services\\TGService.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Services\\TGService.cs",
@@ -690,7 +721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "TTService.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Services\\TTService.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Services\\TTService.cs",
@@ -702,7 +733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "ITTRepository.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Repositories\\Domain\\ITTRepository.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Repositories\\Domain\\ITTRepository.cs",
@@ -714,7 +745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "ITGRepository.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Repositories\\Domain\\ITGRepository.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Repositories\\Domain\\ITGRepository.cs",
@@ -726,7 +757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "TGRepository.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Repositories\\Domain\\TGRepository.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Repositories\\Domain\\TGRepository.cs",
@@ -738,7 +769,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "ITMRepository.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Repositories\\Domain\\ITMRepository.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Repositories\\Domain\\ITMRepository.cs",
@@ -750,7 +781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "IDTRepository.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Repositories\\Domain\\IDTRepository.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Repositories\\Domain\\IDTRepository.cs",
@@ -762,7 +793,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "TTRepository.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Repositories\\Domain\\TTRepository.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Repositories\\Domain\\TTRepository.cs",
@@ -774,7 +805,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "TMRepository.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Repositories\\Domain\\TMRepository.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Repositories\\Domain\\TMRepository.cs",
@@ -786,7 +817,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\appsettings.json",
               "RelativeDocumentMoniker": "CK41Tours\\appsettings.json",
@@ -798,7 +829,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "IDDRepository.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Repositories\\Domain\\IDDRepository.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Repositories\\Domain\\IDDRepository.cs",
@@ -810,7 +841,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "Logo.png -  [English (United Kingdom)] - PNG [4134x4134, 32 bit, PNG]",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\images\\Admin\\Logo.png",
               "RelativeDocumentMoniker": "CK41Tours\\wwwroot\\images\\Admin\\Logo.png",
@@ -822,7 +853,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
@@ -832,7 +863,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "DDEntity.cs",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Models\\DataModels\\DDEntity.cs",
               "RelativeDocumentMoniker": "CK41Tours\\Models\\DataModels\\DDEntity.cs",
@@ -844,19 +875,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Entry.cshtml",
-              "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\TM\\Entry.cshtml",
-              "RelativeDocumentMoniker": "CK41Tours\\Views\\TM\\Entry.cshtml",
-              "ToolTip": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\TM\\Entry.cshtml",
-              "RelativeToolTip": "CK41Tours\\Views\\TM\\Entry.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-17T08:18:31.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "List.cshtml",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\TG\\List.cshtml",
               "RelativeDocumentMoniker": "CK41Tours\\Views\\TG\\List.cshtml",
@@ -868,7 +887,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "CK41Tours\\Properties\\launchSettings.json",
@@ -880,7 +899,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "List.cshtml",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\TM\\List.cshtml",
               "RelativeDocumentMoniker": "CK41Tours\\Views\\TM\\List.cshtml",
@@ -892,7 +911,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "CK41Tours\\Views\\_ViewStart.cshtml",
@@ -904,7 +923,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "Chart.css",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\plugins\\chart.js\\Chart.css",
               "RelativeDocumentMoniker": "CK41Tours\\wwwroot\\plugins\\chart.js\\Chart.css",
@@ -916,7 +935,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "Chart.js",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\plugins\\chart.js\\Chart.js",
               "RelativeDocumentMoniker": "CK41Tours\\wwwroot\\plugins\\chart.js\\Chart.js",
@@ -928,7 +947,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\TG\\Edit.cshtml",
               "RelativeDocumentMoniker": "CK41Tours\\Views\\TG\\Edit.cshtml",
@@ -940,19 +959,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\TM\\Edit.cshtml",
-              "RelativeDocumentMoniker": "CK41Tours\\Views\\TM\\Edit.cshtml",
-              "ToolTip": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\TM\\Edit.cshtml",
-              "RelativeToolTip": "CK41Tours\\Views\\TM\\Edit.cshtml",
-              "ViewState": "AQIAACgAAAAAAAAAAAAgwDMAAABgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-17T08:30:33.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "site.css",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "CK41Tours\\wwwroot\\css\\site.css",
@@ -964,7 +971,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Myproject\\CK41Tours\\CK41Tours\\Views\\TT\\Edit.cshtml",
               "RelativeDocumentMoniker": "CK41Tours\\Views\\TT\\Edit.cshtml",
